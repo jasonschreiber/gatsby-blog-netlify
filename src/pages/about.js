@@ -11,7 +11,7 @@ export default () => {
     return (
       <Layout>
         <div>
-          <Title>Home Page</Title>
+          <Title>About Page</Title>
         </div>
       </Layout>
     )
